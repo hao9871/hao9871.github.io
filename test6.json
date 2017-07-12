@@ -17,7 +17,7 @@
             "imageWidth": 2842,
             "user_id": 25702,
             "user": "25702",
-            "type": "false",
+            "types": "false",
             "id": 91240,
             "userImageURL": "",
             "imageHeight": 2296
@@ -38,7 +38,7 @@
             "imageWidth": 2842,
             "user_id": 25703,
             "user": "25703",
-            "type": "false",
+            "types": "false",
             "id": 91241,
             "userImageURL": "",
             "imageHeight": 2296
@@ -58,7 +58,7 @@
             "imageWidth": 2842,
             "user_id": 25704,
             "user": "25704",
-            "type": "false",
+            "types": "false",
             "id": 91244,
             "userImageURL": "",
             "imageHeight": 2296
@@ -78,7 +78,7 @@
             "imageWidth": 2842,
             "user_id": 25705,
             "user": "25705",
-            "type": "false",
+            "types": "false",
             "id": 91245,
             "userImageURL": "",
             "imageHeight": 2296
@@ -98,7 +98,7 @@
 		            "imageWidth": 2842,
 		            "user_id": 25706,
 		            "user": "25706",
-		            "type": "false",
+		            "types": "false",
 		            "id": 91246,
 		            "userImageURL": "",
 		            "imageHeight": 2296
@@ -118,7 +118,7 @@
 				            "imageWidth": 2842,
 				            "user_id": 25707,
 				            "user": "25707",
-				            "type": "false",
+				            "types": "false",
 				            "id": 91247,
 				            "userImageURL": "",
 				            "imageHeight": 2296
