@@ -1,5 +1,5 @@
 {
-    "totalHits": 3,
+    "totalHits": 6,
     "hits": [
        
         {
@@ -17,7 +17,7 @@
             "imageWidth": 2842,
             "user_id": 25702,
             "user": "25702",
-            "type": "photo",
+            "type": "video",
             "id": 91240,
             "userImageURL": "",
             "imageHeight": 2296
@@ -38,7 +38,7 @@
             "imageWidth": 2842,
             "user_id": 25703,
             "user": "25703",
-            "type": "photo",
+            "type": "video",
             "id": 91241,
             "userImageURL": "",
             "imageHeight": 2296
@@ -58,13 +58,74 @@
             "imageWidth": 2842,
             "user_id": 25704,
             "user": "25704",
-            "type": "photo",
+            "type": "video",
             "id": 91244,
             "userImageURL": "",
             "imageHeight": 2296
-        }
-
+        },
+{
+            "previewHeight": 121,
+            "likes": 2,
+            "favorites": 0,
+            "tags": "sports,racing,shift ",
+            "webformatHeight": 517,
+            "views": 433,
+            "webformatWidth": 640,
+            "previewWidth": 150,
+            "comments": 0,
+            "downloads": 103,
+            "webformatURL": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=9616&editionType=high&source=ucloud",
+            "imageWidth": 2842,
+            "user_id": 25705,
+            "user": "25705",
+            "type": "video",
+            "id": 91245,
+            "userImageURL": "",
+            "imageHeight": 2296
+        },
+		{
+		            "previewHeight": 121,
+		            "likes": 2,
+		            "favorites": 0,
+		            "tags": "science ",
+		            "webformatHeight": 517,
+		            "views": 433,
+		            "webformatWidth": 640,
+		            "previewWidth": 150,
+		            "comments": 0,
+		            "downloads": 103,
+		            "webformatURL": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=14796&editionType=high&source=ucloud",
+		            "imageWidth": 2842,
+		            "user_id": 25706,
+		            "user": "25706",
+		            "type": "video",
+		            "id": 91246,
+		            "userImageURL": "",
+		            "imageHeight": 2296
+		        },
+				{
+				            "previewHeight": 121,
+				            "likes": 2,
+				            "favorites": 0,
+				            "tags": "sharp ",
+				            "webformatHeight": 517,
+				            "views": 433,
+				            "webformatWidth": 640,
+				            "previewWidth": 150,
+				            "comments": 0,
+				            "downloads": 103,
+				            "webformatURL": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=15048&editionType=high&source=ucloud",
+				            "imageWidth": 2842,
+				            "user_id": 25707,
+				            "user": "25707",
+				            "type": "video",
+				            "id": 91247,
+				            "userImageURL": "",
+				            "imageHeight": 2296
+				        }
+				
+		
 
     ],
-    "total": 3
+    "total": 6
 }
