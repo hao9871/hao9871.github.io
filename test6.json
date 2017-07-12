@@ -6,7 +6,7 @@
             "previewHeight": 121,
             "likes": 2,
             "favorites": 0,
-            "tags": “war, warm,inspiring ",
+            "tags": "war, warm,inspiring ",
             "webformatHeight": 517,
             "views": 433,
             "webformatWidth": 640,
@@ -29,7 +29,7 @@
             "previewHeight": 121,
             "likes": 2,
             "favorites": 0,
-            "tags": “cartoon,warm,intersting “,
+            "tags": "cartoon,warm,intersting “,
             "webformatHeight": 517,
             "views": 433,
             "webformatWidth": 640,
@@ -51,7 +51,7 @@
             "previewHeight": 121,
             "likes": 2,
             "favorites": 0,
-            "tags": “hoax,amuse,intersting “,
+            "tags": "hoax,amuse,intersting “,
             "webformatHeight": 517,
             "views": 433,
             "webformatWidth": 640,
@@ -60,7 +60,7 @@
             "downloads": 103,
             "pageURL": "https://pixabay.com/en/child-far-color-grating-silhouette-91239/",
             "previewURL": "https://cdn.pixabay.com/photo/2013/03/07/16/25/child-91239_150.jpg",
-            "webformatURL": http://baobab.kaiyanapp.com/api/v1/playUrl?vid=14881&editionType=high&source=ucloud”,
+            "webformatURL": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=14881&editionType=high&source=ucloud",
             "imageWidth": 2842,
             "user_id": 25704,
             "user": "25704”,
@@ -68,7 +68,7 @@
             "id": 91244,
             "userImageURL": "",
             "imageHeight": 2296
-        },
+        }
 
 
     ],
